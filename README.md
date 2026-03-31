@@ -1,4 +1,4 @@
-# 🔁 Cohort Retention & Repeat Purchase Analysis
+#  Cohort Retention & Repeat Purchase Analysis
 
 ## Problem
 
